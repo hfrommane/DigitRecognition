@@ -1,10 +1,10 @@
 # DigitRecognition
 
-项目采用 **tensorflow** 完成
+### 项目采用 **tensorflow** 完成
 
-完整代码见：**assignment.py**
+### 完整代码见：**assignment.py**
 	
-程序运行结果：
+### 程序运行结果：
 
 - 0.115
 - 0.730
@@ -37,7 +37,8 @@
 - 0.975
 - 0.960
 
+### CNN 结构图
+![](https://raw.githubusercontent.com/hfrommane/DigitRecognition/master/figure/graph-run%3D.png)
 
-
-
-
+### 损失函数
+![](https://raw.githubusercontent.com/hfrommane/DigitRecognition/master/figure/loss.png)
